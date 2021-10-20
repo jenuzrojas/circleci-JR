@@ -5,4 +5,4 @@ jobs:
       - image: circleci/ruby:2.4.1
     steps:
       - checkout
-      - run:  "This is my first hoorah, I am excited to learn more."
+      - run: echo "This is my first hoorah, I am excited to learn more."
